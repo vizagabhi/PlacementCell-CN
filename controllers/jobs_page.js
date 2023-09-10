@@ -1,4 +1,4 @@
-// import fetch from 'node-fetch';
+
 const axios = require('axios')
 module.exports.jobPage = async (req, res) => {
     try {
